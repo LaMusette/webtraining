@@ -117,7 +117,7 @@ Now, try this :
 
 ```
 [my-name@localhost Documents] $ ls --help
-``
+```
 
 --help is a special option that applies to pretty much every command on a modern Linux or Mac system, which ...
 you guessed it, shows all the available command line options.
